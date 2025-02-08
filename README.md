@@ -50,8 +50,14 @@ The dataset, crimes.csv, is a modified version of publicly available data from L
 
 1. Peak Crime Hours:
     - The highest volume of crimes occurs at 12 PM, with a significant drop during late-night hours.
+  
+   ![d1](https://github.com/user-attachments/assets/ccdeb2cc-1842-4662-9f54-7c3ddb64f36c)
+
 2. Nighttime Crime Hotspots:
     - The Central area has the highest number of nighttime crimes (14,944), making it a priority for resource allocation.
+  
+      ![d2](https://github.com/user-attachments/assets/69fb5608-afd6-4900-ba89-ab28bcbcc1d0)
+
 3. Victim Age Groups:
     - Victims aged 26-34 are the most affected, accounting for 47,470 incidents.
 4. Geographic Distribution:
