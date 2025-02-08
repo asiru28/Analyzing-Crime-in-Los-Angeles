@@ -55,11 +55,11 @@ The dataset, crimes.csv, is a modified version of publicly available data from L
 
 2. Nighttime Crime Hotspots:
     - The Central area has the highest number of nighttime crimes (14,944), making it a priority for resource allocation.
-  
-      ![d2](https://github.com/user-attachments/assets/69fb5608-afd6-4900-ba89-ab28bcbcc1d0)
-
 3. Victim Age Groups:
     - Victims aged 26-34 are the most affected, accounting for 47,470 incidents.
+  
+      ![d2](https://github.com/user-attachments/assets/391ee464-9a74-41bf-a876-ce7db7547101)
+
 4. Geographic Distribution:
     - Crime is concentrated in areas like Central, Southwest, and 77th Street, which may require increased patrols and preventive measures.
 
