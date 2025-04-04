@@ -1,4 +1,4 @@
-# Analyzing-Crime-in-Los-Angeles
+# Analysing-Crime-in-Los-Angeles
 
 # Overview/Introduction
 
