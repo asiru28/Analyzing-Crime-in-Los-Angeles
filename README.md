@@ -2,14 +2,14 @@
 
 # Overview/Introduction
 
-Los Angeles, known as the "City of Angels" and the "Entertainment Capital of the World," is a bustling metropolis with a diverse population. However, like any large city, it faces challenges with crime. This project analyzes crime data provided by the Los Angeles Police Department (LAPD) to identify patterns in criminal behavior. The insights gained will help the LAPD allocate resources effectively to tackle various crimes in different areas.
+Los Angeles, known as the "City of Angels" and the "Entertainment Capital of the World," is a bustling metropolis with a diverse population. However, like any large city, it faces challenges with crime. This project analyses crime data provided by the Los Angeles Police Department (LAPD) to identify patterns in criminal behavior. The insights gained will help the LAPD allocate resources effectively to tackle various crimes in different areas.
 
 # Objectives
 
-1. Analyze crime patterns in Los Angeles to identify high-crime areas and times.
+1. Analyse crime patterns in Los Angeles to identify high-crime areas and times.
 2. Explore the demographics of crime victims, including age, gender, and descent.
 3. Identify trends in crime types and their frequency.
-4. Provide actionable insights to help the LAPD optimize resource allocation and crime prevention strategies.
+4. Provide actionable insights to help the LAPD optimise resource allocation and crime prevention strategies.
 
 # Data Source
 
@@ -30,7 +30,7 @@ The dataset, crimes.csv, is a modified version of publicly available data from L
 # Tools Used
 
   - Python Libraries: Pandas, NumPy, Matplotlib, Seaborn
-  - Data Visualization: Seaborn for count plots and histograms.
+  - Data Visualisation: Seaborn for count plots and histograms.
   - Data Cleaning: Handling missing values and transforming data for analysis.
 
 # Insights
@@ -78,5 +78,5 @@ The dataset, crimes.csv, is a modified version of publicly available data from L
 
 1. Clone the repository.
 2. Install the required Python libraries (pandas, numpy, matplotlib, seaborn).
-3. Run the Jupyter Notebook (Analyzing Crime in Los Angeles.ipynb) to reproduce the analysis.
+3. Run the Jupyter Notebook (Analysing Crime in Los Angeles.ipynb) to reproduce the analysis.
 4. Explore the dataset and modify the code to conduct further analysis or generate additional insights.
